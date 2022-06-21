@@ -77,7 +77,7 @@
         }
         .itemsss{
             height: 30vh;
-             width: 100px;
+             width: 115px;
     }
     }
 
